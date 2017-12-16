@@ -16,4 +16,5 @@ The ABM is a model that:
 This ABM is designed and developmented in the Python programming language. 
 
 More information on the ABM can be found on http://www.geog.leeds.ac.uk/courses/computing/study/core-python/
+
 This ABM was designed, and taught to Masters students of Geographic Information Systems (GIS) by Dr. Andrew Evans (http://www.geog.leeds.ac.uk/people/a.evans/), University of Leeds.
