@@ -4,10 +4,10 @@ Portfolio
 Agent Base Model (ABM)
 
 The ABM is a model that:
-•	builds agents in a space;
-•	gets them to interact with each other;
-•	reads in environmental data;
-•	gets agents to interact with the environment;
+1.	builds agents in a space;
+2.  gets them to interact with each other;
+3.  reads in environmental data;
+4.gets agents to interact with the environment;
 •	randomizes the order of agent actions;
 •	displays the model as an animation;
 •	is contained within a Graphical User Interface (GUI);
